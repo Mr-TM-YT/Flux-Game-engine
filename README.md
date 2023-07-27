@@ -5,7 +5,7 @@ A game engine made with C++ by a bunch or dum-dums
 # How to setup this shit?
 
 You have to get a version of the required dependencies e.g Glfw
-and make a folde called extlibs at the project's root directory and after that put the name of the dependency e.g GLFW
+and make a folder called extlibs at the project's root directory and after that put the name of the dependency e.g extlibs/GLFW
 
 # dependencies
 
