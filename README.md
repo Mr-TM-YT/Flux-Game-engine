@@ -2,7 +2,7 @@
 
 A game engine made with C++ by 3 developers [Shresth06(Mr.P)](https://github.com/shresth06), [MR-TM-YT(Mr.TM)](https://github.com/Mr-TM-YT) and [StepingForward(Stephan)](https://github.com/StepingForward).
 
-# How to setup (For Windows).
+# How to setup the project.
 
 You have to get a version of the required dependencies e.g [GLFW](https://github.com/glfw/glfw)
 after make a folder called extlibs at the project's root directory and put the name of the dependency e.g extlibs/GLFW.
